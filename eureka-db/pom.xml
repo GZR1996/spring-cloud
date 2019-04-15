@@ -12,7 +12,7 @@
     <artifactId>eureka-db</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>eureka-db</name>
-    <description>Demo project for Spring Boot</description>
+    <description>Demo project for Eureka Client</description>
 
     <properties>
         <java.version>1.8</java.version>
