@@ -44,6 +44,8 @@
     <modules>
         <module>eureka-server</module>
         <module>eureka-db</module>
+        <module>eureka-zuul</module>
+        <module>eureka-feign</module>
     </modules>
 
 </project>
