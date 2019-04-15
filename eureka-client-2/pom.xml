@@ -9,13 +9,14 @@
         <relativePath>../pom.xml</relativePath>
     </parent>
     <groupId>com.zero</groupId>
-    <artifactId>eureka-db</artifactId>
+    <artifactId>eureka-client-2</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>eureka-db</name>
-    <description>Demo project for Eureka Client</description>
+    <name>eureka-client-2</name>
+    <description>Demo project for Eureka Client 2</description>
 
     <properties>
         <java.version>1.8</java.version>
+        <spring-cloud.version>Greenwich.SR1</spring-cloud.version>
     </properties>
 
     <dependencies>
